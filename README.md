@@ -1,9 +1,4 @@
 
-# GSC Visual Identity Manual
-
-
-
-
 
 ![](/images/VI-01.png)
 
