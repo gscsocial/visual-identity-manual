@@ -1,2 +1,2 @@
-# visual-identity-manual
-GSC Visual Identity Manual
+
+# GSC Visual Identity Manual
